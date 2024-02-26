@@ -29,11 +29,11 @@ Paist bash script and press enter/return:  <br/>
 <br />
 Use space to select Debian (Proxmox runs on Debian):  <br/>
 Use tab to highlight OK and press enter/return <br/>
-<img src="https://i.imgur.com/2nbHyNr.png" height="80%" width="80%" alt="RMA"/>
+<img src="https://i.imgur.com/3PJ6pql.png" height="80%" width="80%" alt="RMA"/>
 <br />
 <br />
 Select the version of Debian running: <br/>
-<img src="https://i.imgur.com/3PJ6pql.png" height="80%" width="80%" alt="Keys"/>
+<img src="https://i.imgur.com/2nbHyNr.png" height="80%" width="80%" alt="Keys"/>
 <br />
 <br />
 
