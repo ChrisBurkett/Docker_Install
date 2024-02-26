@@ -59,12 +59,11 @@ Set how many Gbs allocated to Docker:  <br/>
 <img src="https://i.imgur.com/Ivbc9bO.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
-
-
-Locate your VM on the sidebar to the left and right click and left click start:  <br/>
-<img src="https://i.imgur.com/5vTYPFM.png" height="80%" width="80%" alt="Desk"/>
+Allocated cores to Docker:  <br/>
+<img src="https://i.imgur.com/VDFzi8b.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
+
 CLick on your VM on the left panel and click on Console next:  <br/>
 Install your VM if required:  <br/>
 Click the rigth CTRL button to take your mouse off of the VM:  <br/>
