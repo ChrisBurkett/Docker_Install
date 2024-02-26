@@ -16,6 +16,10 @@ Type "cat /etc/os-release" press enter/return and verify what version of Debian 
 <img src="https://i.imgur.com/JOsRGyb.png" height="80%" width="80%" alt="RMA"/>
 <br />
 <br />
+Navigate to Proxmox and use the System dropdown:  <br/>
+Click Network and see copy the name of Linun Bridge: <br/>
+Docker will use this name to connect to the internet <br/>
+<img src="https://i.imgur.com/jMH28mJ.png" height="80%" width="80%" alt="RMA"/>
 Navigate https://tteck.github.io/Proxmox/: <br/>
 Use the dropdown and open the Docker tab: <br/>
 Copy the bash script: <br/> 
@@ -64,12 +68,12 @@ Allocated cores to Docker:  <br/>
 <br />
 <br />
 
-CLick on your VM on the left panel and click on Console next:  <br/>
-Install your VM if required:  <br/>
-Click the rigth CTRL button to take your mouse off of the VM:  <br/>
-<img src="https://i.imgur.com/q0fxv6a.png" height="80%" width="80%" alt="Desk"/>
+Allocate RAM:  <br/>
+Recommended 2 Gbs to 4 Gbs:  <br/>
+<img src="https://i.imgur.com/ES5S94l.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
+
 To shutdown your VM use the shutdown drop down at the top of the page. <br/> 
 Reboot will restart the VM, STOP will end the VM immediately:  <br/>
 <img src="https://i.imgur.com/uJv3a3y.png" height="80%" width="80%" alt="Desk"/>
