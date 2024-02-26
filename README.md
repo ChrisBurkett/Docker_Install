@@ -24,8 +24,8 @@ Paist bash script and press enter:  <br/>
 <img src="https://i.imgur.com/KulnsSR.png" height="80%" width="80%" alt="ERD"/>
 <br />
 <br />
-Use the ISO image dropdown to select your iso and click next: <br/>
-<img src="https://i.imgur.com/jEEnwr4.png" height="80%" width="80%" alt="Keys"/>
+Use arrow keys, highlight yes, press enter/return: <br/>
+<img src="https://i.imgur.com/bGHjRvr.png" height="80%" width="80%" alt="Keys"/>
 <br />
 <br />
 The system page you can add a TPM if required or change the bois, then click next:  <br/>
