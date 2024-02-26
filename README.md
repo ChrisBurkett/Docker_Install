@@ -12,7 +12,7 @@ Installing Docker on Proxmox.
 
 <p align="center">
 Navigate to Proxmox and open the Shell:  <br/>
-Type; cat /etc/os-release and verify what version of Debian running: <br/>
+Type "cat /etc/os-release" press enter/return and verify what version of Debian running: <br/>
 <img src="https://i.imgur.com/JOsRGyb.png" height="80%" width="80%" alt="RMA"/>
 <br />
 <br />
@@ -22,8 +22,7 @@ Copy the bash script: <br/>
 <img src="https://i.imgur.com/QVpoP03.png" height="80%" width="80%" alt="Creating"/>
 <br />
 <br />
-Click "Open your Proxmox GUI:  <br/>
-Navigate to your server shell:  <br/>
+Navigate back to your Proxmox server shell:  <br/>
 Paist bash script and press enter:  <br/>
 <img src="https://i.imgur.com/KulnsSR.png" height="80%" width="80%" alt="ERD"/>
 <br />
