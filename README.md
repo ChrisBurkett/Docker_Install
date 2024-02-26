@@ -1,4 +1,4 @@
-<h1>Docker Install on Proxmox </h1>
+<h1>Docker Install on Proxmox (EASY) </h1>
 
 
 <h2>Description</h2>
@@ -11,17 +11,17 @@ Installing Docker on Proxmox.
 <h2>Add VM ISO to PROMOX:</h2>
 
 <p align="center">
-Navigate to your Proxmox server in a web browser: <br/>
-Navigate to Local storage, ISO Images, and click Upload on the top of the page: <br/>
-Use "select file" and select the ISO image from your computer and click upload: <br/>
-This will upload the ISO onto your Promox storage: <br/>
+Navigate https://tteck.github.io/Proxmox/: <br/>
+Use the dropdown and open the Docker tab: <br/>
+Copy the bash script: <br/>
 : <br/> 
-<img src="https://i.imgur.com/9jE7v71.png" height="80%" width="80%" alt="Creating"/>
+<img src="https://i.imgur.com/QVpoP03.png" height="80%" width="80%" alt="Creating"/>
 <br />
 <br />
-Click "Create VM" in the top right the GUI:  <br/>
-Give your VM a name and click next:  <br/>
-<img src="https://i.imgur.com/OMnz9BC.png" height="80%" width="80%" alt="ERD"/>
+Click "Open your Proxmox GUI:  <br/>
+Navigate to your server shell:  <br/>
+Paist bash script and press enter:  <br/>
+<img src="https://i.imgur.com/KulnsSR.png" height="80%" width="80%" alt="ERD"/>
 <br />
 <br />
 Use the ISO image dropdown to select your iso and click next: <br/>
