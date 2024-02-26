@@ -18,8 +18,7 @@ Use tab to highlight OK and press enter/return <br/>
 <p align="center">
 Navigate https://tteck.github.io/Proxmox/: <br/>
 Use the dropdown and open the Docker tab: <br/>
-Copy the bash script: <br/>
-: <br/> 
+Copy the bash script: <br/> 
 <img src="https://i.imgur.com/QVpoP03.png" height="80%" width="80%" alt="Creating"/>
 <br />
 <br />
