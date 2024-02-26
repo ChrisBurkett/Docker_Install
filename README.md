@@ -27,8 +27,8 @@ Paist bash script and press enter:  <br/>
 <img src="https://i.imgur.com/KulnsSR.png" height="80%" width="80%" alt="ERD"/>
 <br />
 <br />
-Use arrow keys, highlight yes, press enter/return: <br/>
-<img src="https://i.imgur.com/bGHjRvr.png" height="80%" width="80%" alt="Keys"/>
+Select the version of Debian running: <br/>
+<img src="https://i.imgur.com/2nbHyNr.png" height="80%" width="80%" alt="Keys"/>
 <br />
 <br />
 Use space to select Debian (Proxmox runs on Debian):  <br/>
