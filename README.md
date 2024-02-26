@@ -51,16 +51,16 @@ Do not use a container ID that is already in use <br/>
 <img src="https://i.imgur.com/K1naVll.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
+Set a Docker hostname:  <br/>
+<img src="https://i.imgur.com/lQfWb4K.png" height="80%" width="80%" alt="Desk"/>
+<br />
+<br />
+Set how many Gbs allocated to Docker:  <br/>
+<img src="https://i.imgur.com/Ivbc9bO.png" height="80%" width="80%" alt="Desk"/>
+<br />
+<br />
 
 
-Choose what network interface card you want your VM to use, click next:  <br/>
-<img src="https://i.imgur.com/TB12V0K.png" height="80%" width="80%" alt="Desk"/>
-<br />
-<br />
-Verify your VM info and click Finish:  <br/>
-<img src="https://i.imgur.com/7RJGQpl.png" height="80%" width="80%" alt="Desk"/>
-<br />
-<br />
 Locate your VM on the sidebar to the left and right click and left click start:  <br/>
 <img src="https://i.imgur.com/5vTYPFM.png" height="80%" width="80%" alt="Desk"/>
 <br />
