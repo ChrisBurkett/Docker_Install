@@ -46,11 +46,13 @@ Click Next:  <br/>
 <img src="https://i.imgur.com/lZ8mV4T.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
+Set a container ID:  <br/>
+Do not use a container ID that is already in use <br/>
+<img src="https://i.imgur.com/K1naVll.png" height="80%" width="80%" alt="Desk"/>
+<br />
+<br />
 
-Change memory allocation here and click next:  <br/>
-<img src="https://i.imgur.com/69Y0G3l.png" height="80%" width="80%" alt="Desk"/>
-<br />
-<br />
+
 Choose what network interface card you want your VM to use, click next:  <br/>
 <img src="https://i.imgur.com/TB12V0K.png" height="80%" width="80%" alt="Desk"/>
 <br />
