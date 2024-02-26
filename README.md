@@ -10,12 +10,12 @@ Installing Docker on Proxmox.
 
 <h2>Add VM ISO to PROMOX:</h2>
 
-Use space to select Debian (Proxmox runs on Debian):  <br/>
-Use tab to highlight OK and press enter/return <br/>
-<img src="https://i.imgur.com/3PJ6pql.png" height="80%" width="80%" alt="RMA"/>
-<br />
-<br />
 <p align="center">
+Navigate to Proxmox and open the Shell:  <br/>
+Type; cat /etc/os-release and verify what version of Debian running: <br/>
+<img src="https://i.imgur.com/JOsRGyb.png" height="80%" width="80%" alt="RMA"/>
+<br />
+<br />
 Navigate https://tteck.github.io/Proxmox/: <br/>
 Use the dropdown and open the Docker tab: <br/>
 Copy the bash script: <br/> 
