@@ -36,22 +36,17 @@ Select the version of Debian running: <br/>
 <img src="https://i.imgur.com/2nbHyNr.png" height="80%" width="80%" alt="Keys"/>
 <br />
 <br />
-
-
-
- 
-Change any storage settings needed here:  <br/>
-Note! Storage bandwidth settings can be changed with the bandwidth tab here:  <br/>
-Click next <br/>
-<img src="https://i.imgur.com/gx9uMfE.png" height="80%" width="80%" alt="Records"/>
+Always run as Unprivileged unless you have a very specific need:  <br/>
+<img src="https://i.imgur.com/LRcrSLE.png" height="80%" width="80%" alt="Records"/>
 <br />
 <br />
-Change CPU settings here:  <br/>
-Take special note on how many Cores you are relocating to this machine, default is 1 core:  <br/>
+Create a Root password:  <br/>
+Do not leave the Root password blank unless you have very specific use case:  <br/>
 Click Next:  <br/>
-<img src="https://i.imgur.com/ugUmjOE.png" height="80%" width="80%" alt="Desk"/>
+<img src="https://i.imgur.com/lZ8mV4T.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
+
 Change memory allocation here and click next:  <br/>
 <img src="https://i.imgur.com/69Y0G3l.png" height="80%" width="80%" alt="Desk"/>
 <br />
